@@ -1,2 +1,2 @@
 # abc80basic
-Some old basic program for the abc80 pc
+Some old basic programs for the abc80 pc
